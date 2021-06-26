@@ -10,9 +10,9 @@ import AVFoundation
 class ViewController: UIViewController {
     
     let eggTimeDict = [
-        "Soft" : 3,
-        "Medium" : 4,
-        "Hard": 7
+        "Soft" : 300,
+        "Medium" : 420,
+        "Hard": 720
     ]
     
     @IBOutlet weak var titleLabel: UILabel!
